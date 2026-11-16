@@ -1,17 +1,38 @@
-### Hi there, I'm Maxi Cano
+### Hi there, I'm Maxi Cano (`Rhazieh`) 👋
 
-I bridge the gap between bare-metal hardware and cloud infrastructure. Currently building my path toward DevOps and Cloud Engineering, with a strong foundation in network topologies, server administration, and hands-on hardware troubleshooting.
+**Network Infrastructure · Linux SysAdmin · Junior DevOps · Layer 1–7 Hardware & Systems Support**
 
- **Currently studying:** IT Network Administration at UNICEN (Tandil, Buenos Aires).
- **Background:** Founder of Layer 1 (Micro-electronic repair and hardware support).
- **Exploring:** Containerization (Docker), CI/CD, Infrastructure as Code, and Open Source contributions.
+Advanced student in **IT Network Administration (TUARI)** at **UNICEN** (Facultad de Ciencias Exactas — Tandil, Buenos Aires, Argentina · expected graduation: **Feb 2027**). I bridge bare-metal hardware troubleshooting (component-level micro-electronics and diagnostics) with enterprise networking, Linux server administration, containerization, and Infrastructure as Code.
 
-#### Tech Stack & Tools
-* **Systems & Infra:** Linux, Docker, Bash, AWS (EC2, S3)
-* **Networking:** OSPF, VLANs, IPv4/IPv6, ACLs, Cisco Packet Tracer
-* **Databases:** PostgreSQL
-* **Dev:** TypeScript, NestJS, Angular (for automation and APIs)
+<p>
+  <a href="https://linkedin.com/in/maxicanoit"><img src="https://img.shields.io/badge/LinkedIn-maxicanoit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maxi24cano@gmail.com"><img src="https://img.shields.io/badge/Email-maxi24cano%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Tandil%20%2F%20Buenos%20Aires-1F2937?style=flat-square" alt="Location"/>
+</p>
 
-#### Contact
-* LinkedIn: [in/maxicanoit](https://linkedin.com/in/maxicanoit)
-* Email: maxi24cano@gmail.com
+---
+
+#### 🔧 Core Technical Stack
+- **Networking & Security:** BGP (`eBGP` / `iBGP` full-mesh over Loopbacks), `OSPFv2/v3` (Area 0), `RIPv2`, VLANs (`IEEE 802.1Q`), `IPv4` (`VLSM/CIDR`) & `IPv6` (`sit` tunnels), Policy-Based Routing (`iproute2` RPDB / `ip rule`), `iptables` (Netfilter, `NAT`, `mangle`/`fwmark`), MikroTik RouterOS (WAN failover), CORE/Quagga, Cisco Packet Tracer (IOS CLI & extended ACLs), Wireshark, `tcpdump`, OpenVPN, Squid Proxy, LDAP, Radius/802.1x, Ubiquiti UniFi Wi-Fi, ANSI/TIA-568 cabling & fiber optics (OS2/OM3).
+- **Linux, Virtualization & Cloud:** Debian / Ubuntu Server, Bash scripting, `systemd`/`journalctl`, Linux internals (`/proc`, `/sys`, `cgroups`, `namespaces`), CPU & I/O benchmarking (`stress-ng`, `fio`, `io_uring`), Samba, DNS (`bind9`), DHCP, KVM, Xen, Proxmox VE, Ceph, AWS (`EC2`, `S3`, `VPC`, `IAM`), Terraform (HCL, remote S3 state backend).
+- **Containers, CI/CD & Observability:** Docker (multi-stage builds, non-root, healthchecks), Docker Compose, Kubernetes (Minikube manifests: `Deployment`, `Service`, `PVC`, `Secret`), ArgoCD GitOps concepts, GitHub Actions, Codecov, Codacy, Dependabot, Nagios Core/NRPE, SNMP, Cacti, Prometheus & Grafana.
+- **Development & Databases:** Python (`FastAPI`, `Flask`, `pytest`), TypeScript/JavaScript (`NestJS`, `Angular 20`, `TypeORM`), Java (OOP & data structures), PostgreSQL (`EXPLAIN ANALYZE`, `pg_stat_*`, `VACUUM`, indexing & tuning).
+- **Hardware & Physical Layer:** Component-level motherboard diagnostics, SMD precision micro-soldering, OS recovery & hardening (GRUB, Dual Boot, Windows Registry), and Data Center auditing (`ANSI/TIA-942`).
+
+---
+
+#### 📌 Featured Projects & Repositories
+
+| Repository | Focus | Main Stack |
+| :--- | :--- | :--- |
+| [**tuari-network-engineering-labs**](https://github.com/Rhazieh/tuari-network-engineering-labs) | Distributed routing, corporate WAN/VLANs, VLSM/iptables & TIA-942 audit | CORE/Quagga, eBGP/iBGP, OSPF, RIPv2, IPv6 `sit`, `iproute2` PBR, MikroTik, TIA-942 |
+| [**devops-roadmap-labs**](https://github.com/Rhazieh/devops-roadmap-labs) | Hands-on SysAdmin, Networking, Cloud, IaC & CI/CD roadmap labs | Terraform, AWS (`EC2`/`VPC`/`S3`), Docker, Samba, Packet Tracer, Bash, GitHub Actions |
+| [**backend-gestor**](https://github.com/Rhazieh/backend-gestor) & [**frontend-gestor**](https://github.com/Rhazieh/frontend-gestor) | Decoupled Full-Stack Appointment Manager with CI/CD & Kubernetes | NestJS, Angular 20, TypeScript, PostgreSQL, Docker, Minikube (`k8s/`), GitHub Actions, Codecov, Codacy, Render, Netlify |
+| **Open Source Container Hardening** | Resource limits, healthchecks, multi-stage Docker & restart policies | [`shard-siem`](https://github.com/Rhazieh/shard-siem) · [`hexnest-node`](https://github.com/Rhazieh/hexnest-node) · [`mangawatch`](https://github.com/Rhazieh/mangawatch) |
+
+---
+
+#### 📫 Contact
+- **LinkedIn:** [linkedin.com/in/maxicanoit](https://linkedin.com/in/maxicanoit)
+- **Email:** [maxi24cano@gmail.com](mailto:maxi24cano@gmail.com)
+- **Location:** Tandil / Adolfo Gonzales Chaves, Buenos Aires, Argentina *(open to remote, hybrid, or on-site)*
