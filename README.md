@@ -28,11 +28,11 @@ Advanced student in **IT Network Administration (TUARI)** at **UNICEN** (Faculta
 | [**tuari-network-engineering-labs**](https://github.com/Rhazieh/tuari-network-engineering-labs) | Distributed routing, corporate WAN/VLANs, VLSM/iptables & TIA-942 audit | CORE/Quagga, eBGP/iBGP, OSPF, RIPv2, IPv6 `sit`, `iproute2` PBR, MikroTik, TIA-942 |
 | [**devops-roadmap-labs**](https://github.com/Rhazieh/devops-roadmap-labs) | Hands-on SysAdmin, Networking, Cloud, IaC & CI/CD roadmap labs | Terraform, AWS (`EC2`/`VPC`/`S3`), Docker, Samba, Packet Tracer, Bash, GitHub Actions |
 | [**backend-gestor**](https://github.com/Rhazieh/backend-gestor) & [**frontend-gestor**](https://github.com/Rhazieh/frontend-gestor) | Decoupled Full-Stack Appointment Manager with CI/CD & Kubernetes | NestJS, Angular 20, TypeScript, PostgreSQL, Docker, Minikube (`k8s/`), GitHub Actions, Codecov, Codacy, Render, Netlify |
-| **Open Source Container Hardening** | Resource limits, healthchecks, multi-stage Docker & restart policies | [`shard-siem`](https://github.com/Rhazieh/shard-siem) · [`hexnest-node`](https://github.com/Rhazieh/hexnest-node) · [`mangawatch`](https://github.com/Rhazieh/mangawatch) |
+| **Open Source Container Hardening** | Resource limits, healthchecks, restart policies & optional Ollama Compose sidecars | [`shard-siem`](https://github.com/Rhazieh/shard-siem) · [`hexnest-node`](https://github.com/Rhazieh/hexnest-node) · [`mangawatch`](https://github.com/Rhazieh/mangawatch) |
 
 ---
 
 #### 📫 Contact
 - **LinkedIn:** [linkedin.com/in/maxicanoit](https://linkedin.com/in/maxicanoit)
 - **Email:** [maxi24cano@gmail.com](mailto:maxi24cano@gmail.com)
-- **Location:** Tandil / Adolfo Gonzales Chaves, Buenos Aires, Argentina *(open to remote, hybrid, or on-site)*
+- **Location:** Tandil / Adolfo Gonzales Chaves, Buenos Aires, Argentina — *relocating to La Plata, Buenos Aires (Feb–Mar 2027) · open to on-site, hybrid, or remote*
