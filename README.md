@@ -29,6 +29,7 @@ Advanced student in **IT Network Administration (TUARI)** at **UNICEN** (Faculta
 | [**devops-roadmap-labs**](https://github.com/Rhazieh/devops-roadmap-labs) | Hands-on SysAdmin, Networking, Cloud, IaC & CI/CD roadmap labs | Terraform, AWS (`EC2`/`VPC`/`S3`), Docker, Samba, Packet Tracer, Bash, GitHub Actions |
 | [**backend-gestor**](https://github.com/Rhazieh/backend-gestor) & [**frontend-gestor**](https://github.com/Rhazieh/frontend-gestor) | Decoupled Full-Stack Appointment Manager with CI/CD & Kubernetes | NestJS, Angular 20, TypeScript, PostgreSQL, Docker, Minikube (`k8s/`), GitHub Actions, Codecov, Codacy, Render, Netlify |
 | **Open Source Container Hardening** | Resource limits, healthchecks, restart policies & optional Ollama Compose sidecars | [`shard-siem`](https://github.com/Rhazieh/shard-siem) · [`hexnest-node`](https://github.com/Rhazieh/hexnest-node) · [`mangawatch`](https://github.com/Rhazieh/mangawatch) |
+| [**coconut**](https://github.com/Rhazieh/coconut) | Minimalist, offline eye-comfort Markdown viewer for Linux (*vibe-coded* personal tool for daily reading) | Python, PyQt6, `libcmark-gfm`, Wayland/X11, XDG, Bash, GitHub Actions |
 
 ---
 
